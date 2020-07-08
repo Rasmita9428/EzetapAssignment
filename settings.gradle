@@ -1,0 +1,3 @@
+include ':app:Mathoper'
+include ':app'
+rootProject.name = "EzetapAssignment"
